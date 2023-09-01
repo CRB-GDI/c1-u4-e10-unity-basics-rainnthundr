@@ -1,1 +1,1 @@
-Add the assignment instructions and any provided materials in this folder
+Refer to **Exercise 10 Instructions.pdf** for detailed instructions
